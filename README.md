@@ -49,7 +49,6 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artin-khodayari&theme=radical" alt="Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artin-khodayari&layout=compact&theme=tokyonight" alt="Top Languages(per lines)" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artin-khodayari&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
