@@ -7,7 +7,7 @@
 
 ---
 
-<img align="CENTER" width="500" height="375" src="https://github.com/Artin-khodayari/Artin-khodayari/blob/main/assets/gif.gif"/>
+<img align="center" width="500" height="375" src="https://github.com/Artin-khodayari/Artin-khodayari/blob/main/assets/gif.gif"/>
 
 ---
 
