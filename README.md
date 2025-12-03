@@ -16,7 +16,6 @@
   - A programming language written in Python, designed to be simple yet powerful.  
 - 🎮 **Terminal Apps**
   - Python-based code editor named [**DemEdit**](https://github.com/Artin-khodayari/DamEdit-CLI)
-  - 
 
 ---
 
