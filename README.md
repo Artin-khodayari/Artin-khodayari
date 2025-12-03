@@ -6,7 +6,7 @@
 ✨ Turning ideas that seem hard to believe into reality: "I can do it."
 
 ---
-![This is how I feel, when I'm coding](https://https://github.com/Artin-khodayari/Artin-khodayari/blob/main/assets/gif.gif)
+<img align="CENTER" width="500" height="375" src="https://github.com/Artin-khodayari/Artin-khodayari/blob/main/assets/gif.gif"/>
 ---
 
 ## 🔥 Current Projects  
