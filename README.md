@@ -8,10 +8,15 @@
 ---
 
 ## 🔥 Current Projects  
-- 🤖 **Jarvis** → A [**personal-digital assistant**](https://github.com/Artin-khodayari/Jarvis) in Python (speech recognition, TTS, AI integration).  
-- 🖥️ **Damavand OS** → My own [**operating system**](https://github.com/Artin-khodayari/DAMAVAND-OS) built with **Assembly & C++** (no GRUB, no shortcuts).  
-- 🐍 **Damavand-lang** → A programming language written in Python, designed to be simple yet powerful.  
-- 🎮 **Terminal Games** → Python `curses`-based games where you collect items and avoid enemies.
+- 🤖 **Jarvis**
+  - A [**personal-digital assistant**](https://github.com/Artin-khodayari/Jarvis) in Python (speech recognition, TTS, AI integration).  
+- 🖥️ **Damavand OS**
+  - My own [**operating system**](https://github.com/Artin-khodayari/DAMAVAND-OS) built with **Assembly & C++** (no GRUB, no shortcuts).  
+- 🐍 **Damavand-lang**
+  - A programming language written in Python, designed to be simple yet powerful.  
+- 🎮 **Terminal Apps**
+  - Python-based code editor named [**DemEdit**](https://github.com/Artin-khodayari/DamEdit-CLI)
+  - 
 
 ---
 
