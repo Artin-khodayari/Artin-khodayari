@@ -65,4 +65,4 @@
 
 ---
 
-⭐ *"Persistence beats difficulty. Every bug fixed brings me closer to building something real."*
+⭐ *"Persistence beats difficulty. Every fixed bug brings me closer to build something real."*
