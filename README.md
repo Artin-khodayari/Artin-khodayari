@@ -33,11 +33,9 @@
 
 ## Contact
 
-<div align="center">
 - [**GitHub**](https://github.com/Artin-khodayari)  
 - [**Linkedin**](https://www.linkedin.com/in/artin-khodayari/)
 - [**Gmail**](Artinkhodayari2010@gmail.com)
-</div>
 
 ###
 
