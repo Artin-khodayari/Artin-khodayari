@@ -1,12 +1,9 @@
-<h1 align="center">Hi 🌸, I'm Mina</h1>
-<h3 align="center">AI Specialist | Researcher | Algorithm | Python Developer</h3>
+<h1 align="center">Hi 🌸, I'm Artin</h1>
+<h3 align="center">Osint Specialist | Math Student | Algorithm | Python Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minaniazizade&label=Profile%20views&color=0e75b6&style=flat" alt="minaniazizade" /> </p>
-
-- 🎉 I’m currently working on **AI projects...**
-- 🎊 I’m currently learning **Algorithms , Graph , AI , Machine Learning,etc.**
-- ✨️Ask me about **Math,Algorithms,programming,CS and programming championships**
-- 🎖fact : Dreams don't wait, and neither do I ....
-
+<div align="center">
+**"Persistence beats difficulty. Every fixed bug brings me closer to build something real."**
+</div>div>
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
   <img width="12" />
