@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🌸, I'm Artin</h1>
 <h3 align="center">Osint Specialist | Math Student | Algorithm | Python Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minaniazizade&label=Profile%20views&color=0e75b6&style=flat" alt="minaniazizade" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Artin-khodayari&label=Profile%20views&color=0e75b6&style=flat" alt="Artin-khodayari" /> </p>
 <div align="center">
-**"Persistence beats difficulty. Every fixed bug brings me closer to build something real."**
-</div>div>
+<b>"Persistence beats difficulty. Every fixed bug brings me closer to build something real."</b>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -11,7 +11,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img src="https://cdn.simpleicons.org/assembly/00C4CC" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
@@ -49,7 +49,7 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Artin-khodayari/Artin-khodayari/output/snake.svg)
 
 
 ###
@@ -69,9 +69,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minaniazizade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minaniazizade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=minaniazizade&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Artin-khodayari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Artin-khodayari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Artin-khodayari&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
