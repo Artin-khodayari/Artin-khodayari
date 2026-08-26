@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Artin</h1>
-<h3 align="center">Osint Specialist | Math Student | Algorithm | Python Developer</h3>
+<h3 align="center">Osint (Junior) Specialist | Math Student | Algorithm | Python Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Artin-khodayari&label=Profile%20views&color=0e75b6&style=flat" alt="Artin-khodayari" /> </p>
 <div align="center">
 <b>"Persistence beats difficulty. Every fixed bug brings me closer to build something real."</b>
